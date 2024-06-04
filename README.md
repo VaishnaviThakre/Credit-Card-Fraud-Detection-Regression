@@ -74,7 +74,6 @@ The model is evaluated using various metrics such as:
 - F1 Score
 - ROC-AUC
 
-These metrics are calculated and saved in the `results/evaluation_metrics.txt` file.
 
 ## Results
 Detailed results and performance metrics of the trained models are stored in the `notebooks` directory. Visualizations of the results can be found in the `notebooks` directory.
