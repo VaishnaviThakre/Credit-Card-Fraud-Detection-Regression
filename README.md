@@ -77,7 +77,7 @@ The model is evaluated using various metrics such as:
 These metrics are calculated and saved in the `results/evaluation_metrics.txt` file.
 
 ## Results
-Detailed results and performance metrics of the trained models are stored in the `results` directory. Visualizations of the results can be found in the `notebooks` directory.
+Detailed results and performance metrics of the trained models are stored in the `notebooks` directory. Visualizations of the results can be found in the `notebooks` directory.
 
 ## Contributing
 Contributions are welcome! Please open an issue to discuss what you would like to change or contribute, and submit a pull request.
